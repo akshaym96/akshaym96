@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=akshaym96&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=akshaym96&rank_icon=github&show_icons=true&count_private=true&theme=tokyonight)]()
 ###
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaym96&langs_count=5&theme=tokyonight)]()
