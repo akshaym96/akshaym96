@@ -6,11 +6,15 @@
 - 🔭 I’m currently working on NLP, CV @Microsoft
 - 🌱 I’m currently learning LLMs, Generative AI 
 - 👯 I’m looking to collaborate on anything related to representation learning, NLP, and LLMs
-- 😄 Pronouns: He/Him
+
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=akshaym96&rank_icon=github&show_icons=true&count_private=true&theme=tokyonight)]()
 
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='100"'>
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaym96&langs_count=5&theme=tokyonight)]()
+
 
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
