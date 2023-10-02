@@ -15,10 +15,13 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaym96&langs_count=5&theme=tokyonight)]()
 
+  <br>
+  <br>
 
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
+<!-- <details>-->
+  <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
+  <br>
+  <br>
 <p align="left">
     <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="python" width="40" height="40" /> </a>
@@ -56,7 +59,7 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
 </p>
-</details>
+<!--</details> -->
 
 <hr/>
 
@@ -69,9 +72,6 @@
 ![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/akshaym96-github-readme)
 
 <!--
-**akshaym96/akshaym96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 - 🤔 I’m looking for help with ...
