@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Always+learning+new+things;Machine+Learning+%7C+NLP+%7C+CV"/>
 </p>
 
-- 🔭 I’m currently working on NLP, CV @Microsoft
-- 🌱 I’m currently learning LLMs, Generative AI 
-- 👯 I’m looking to collaborate on anything related to representation learning, NLP, and LLMs
+- 🔭 Working on NLP, CV @Microsoft
+- 🌱 Learning LLMs, Generative AI 
+- 👯 Looking to collaborate on anything related to representation learning, NLP, and LLMs
 
 
 
