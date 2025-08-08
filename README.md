@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github.com/akshaym96/akshaym96/assets/6770064/7e429b6e-a37f-4496-a6db-d3a8690fd181"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Always+learning+new+things;Machine+Learning+%7C+NLP+%7C+CV"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Always+learning+new+things;Machine+Learning+%7C+NLP+%7C+LLMs"/>
 </p>
 
-- 🔭 Working on NLP, CV @Microsoft
+- 🔭 Working on LLMs, Agents @Splunk AI
 - 🌱 Learning LLMs, Generative AI 
 - 👯 Looking to collaborate on anything related to representation learning, NLP, and LLMs
 
