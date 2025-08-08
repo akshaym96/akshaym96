@@ -68,9 +68,6 @@
 <a href="https://www.linkedin.com/in/akshaymallipeddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaymallipeddi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/akshay.mallipeddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshaymallipeddi" height="30" width="40" /></a>
 
-
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/akshaym96-github-readme)
-
 <!--
 
 - ⚡ Fun fact: ...
